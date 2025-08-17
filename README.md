@@ -88,4 +88,4 @@ This project was a valuable exercise in applying recurrent neural networks to a 
 
 ## 📄 License
 
-This project is licensed under the MIT License – see the `LICENSE` file for details.
+This project is licensed under the Apache 2.0 License – see the `LICENSE` file for details.
